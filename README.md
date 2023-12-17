@@ -34,5 +34,4 @@ lessThanMe: Opposite of moreThanMe, checks if one value or expression is less th
 IsitTrue: A conditional check, likely evaluating the truthiness of an expression.
 hide: Potentially used for encapsulating or hiding a segment of code or data.
 ofCourse: Might be used as an affirmation, possibly in conditional or loop structures.
-never: Likely a keyword for negation or representing a false condition.
-![image](https://github.com/EdouardWP/Lingo_final/assets/88239973/6617c5dd-f69f-480f-af5c-8f840b900580)
+never: A keyword for negation or representing a false condition.
